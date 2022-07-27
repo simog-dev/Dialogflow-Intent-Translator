@@ -1,6 +1,6 @@
 # Dialogflow-Intent-Translator
 
-This script translate the trining phrases of Dialogflow intents from a language to another, using DeepL Free API.
+This script translate the training phrases of Dialogflow intents from a language to another, using DeepL Free API.
 
 It takes care of the entities used to mark the phrases.
 
